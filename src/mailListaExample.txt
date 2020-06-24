@@ -1,0 +1,5 @@
+examplelista1@example.com
+examplelista2@example.com
+examplelista3@example.com
+examplelista4@example.com
+examplelista5@example.com

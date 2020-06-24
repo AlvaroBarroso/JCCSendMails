@@ -1,0 +1,9 @@
+{
+    "email": "jcc",
+    "email_alias": "Jornadas de Ciencias de la Computación",
+    "email_password": "CONTRASENIA",
+    "personalMailContentFilePath": "src/MailPersonal2020.txt",
+    "listaMailContentFilePath": "src/MailLista2020.txt",
+    "listaContactFilePath": "src/listaCorreos",
+    "personalContactFilePath": "src/personalesCorreos"
+}
